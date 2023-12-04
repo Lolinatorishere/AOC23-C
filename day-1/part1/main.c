@@ -61,7 +61,7 @@ int Data_Analysis(data *in_memory , int filesize , int *answertotal){
         *stringnumber = '\0';
         for(int j = 0 ; j < in_memory[i].str_size ; j++){
             if(in_memory[i].string[j] >= 48 && in_memory[i].string[j] <= 57){
-                if(num_bool == 0 ){
+                if(num_bool == 0){
                     stringnumber[0] = in_memory[i].string[j];
                 }
                 stringnumber[1] = in_memory[i].string[j];
