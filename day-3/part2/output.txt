@@ -1,0 +1,1486 @@
+symbol: *
+symbol: *
+*snumb 42826
+symbol: *
+*snumb 63940
+symbol: *
+*snumb 215496
+symbol: *
+*snumb 545090
+symbol: *
+*snumb 30942
+symbol: *
+*snumb 389232
+symbol: =
+snumb0 = 298
+symbol: *
+*snumb 237567
+symbol: +
+snumb0 = 504
+symbol: /
+snumb0 = 508
+symbol: *
+*snumb 725192
+symbol: +
+snumb0 = 723
+symbol: /
+snumb0 = 827
+symbol: *
+*snumb 41310
+symbol: &
+snumb0 = 375
+symbol: #
+snumb0 = 114
+symbol: *
+*snumb 1924
+symbol: &
+snumb0 = 543
+symbol: +
+snumb0 = 502
+symbol: *
+*snumb 18361
+symbol: %
+snumb0 = 244
+symbol: *
+symbol: *
+*snumb 469700
+symbol: *
+*snumb 185690
+symbol: /
+snumb0 = 129
+symbol: *
+*snumb 115248
+symbol: *
+symbol: #
+snumb0 = 661
+symbol: *
+*snumb 261307
+symbol: *
+*snumb 356160
+symbol: *
+*snumb 19800
+symbol: -
+snumb0 = 766
+symbol: -
+snumb0 = 308
+symbol: -
+snumb0 = 295
+symbol: %
+snumb0 = 185
+symbol: +
+snumb0 = 799
+symbol: +
+snumb0 = 413
+symbol: /
+snumb0 = 764
+symbol: =
+snumb0 = 533
+symbol: $
+snumb0 = 795
+symbol: *
+symbol: %
+snumb0 = 475
+symbol: *
+*snumb 510848
+symbol: @
+snumb0 = 640
+symbol: *
+*snumb 332808
+symbol: *
+*snumb 421482
+symbol: *
+*snumb 562740
+symbol: +
+snumb0 = 954
+symbol: *
+*snumb 369050
+symbol: @
+snumb0 = 23
+symbol: $
+snumb0 = 536
+symbol: *
+*snumb 284427
+symbol: *
+*snumb 24750
+symbol: %
+snumb0 = 584
+symbol: *
+*snumb 258762
+symbol: *
+*snumb 29736
+symbol: *
+*snumb 282834
+symbol: *
+*snumb 58312
+symbol: %
+snumb0 = 217
+symbol: &
+snumb0 = 246
+symbol: &
+snumb0 = 108
+symbol: *
+*snumb 39364
+symbol: *
+symbol: /
+snumb0 = 629
+symbol: =
+snumb0 = 448
+symbol: *
+*snumb 78624
+symbol: *
+*snumb 560628
+symbol: *
+*snumb 4280
+symbol: *
+*snumb 23772
+symbol: /
+snumb0 = 920
+symbol: *
+*snumb 435984
+symbol: *
+*snumb 409354
+symbol: *
+*snumb 389160
+symbol: *
+*snumb 267584
+symbol: @
+snumb0 = 172
+symbol: /
+snumb0 = 823
+symbol: *
+*snumb 12614
+symbol: *
+*snumb 499989
+symbol: *
+*snumb 167034
+symbol: *
+*snumb 205275
+symbol: *
+*snumb 451880
+symbol: *
+*snumb 88
+symbol: =
+snumb0 = 970
+symbol: *
+*snumb 598086
+symbol: &
+snumb0 = 793
+symbol: *
+symbol: *
+symbol: @
+snumb0 = 543
+symbol: *
+*snumb 159960
+symbol: *
+*snumb 128016
+symbol: /
+snumb0 = 301
+symbol: *
+symbol: *
+symbol: *
+*snumb 11509
+symbol: /
+snumb0 = 218
+symbol: *
+*snumb 371952
+symbol: *
+symbol: +
+snumb0 = 533
+symbol: &
+snumb0 = 939
+symbol: *
+*snumb 66500
+symbol: =
+snumb0 = 461
+symbol: #
+snumb0 = 268
+symbol: #
+snumb0 = 555
+symbol: *
+*snumb 96924
+symbol: /
+snumb0 = 846
+symbol: *
+*snumb 473319
+symbol: %
+snumb0 = 419
+symbol: *
+*snumb 611220
+symbol: $
+snumb0 = 193
+symbol: *
+*snumb 486392
+symbol: *
+*snumb 403756
+symbol: @
+snumb0 = 482
+symbol: *
+*snumb 594035
+symbol: &
+snumb0 = 829
+symbol: *
+*snumb 326835
+symbol: *
+*snumb 760062
+symbol: *
+*snumb 161920
+symbol: *
+symbol: #
+snumb0 = 752
+symbol: &
+snumb0 = 744
+symbol: @
+snumb0 = 141
+symbol: *
+*snumb 5862
+symbol: *
+*snumb 435116
+symbol: *
+*snumb 206092
+symbol: *
+*snumb 12998
+symbol: *
+*snumb 100232
+symbol: *
+*snumb 231426
+symbol: *
+*snumb 142494
+symbol: *
+*snumb 11147
+symbol: *
+*snumb 28288
+symbol: *
+*snumb 538128
+symbol: *
+*snumb 108584
+symbol: *
+*snumb 21700
+symbol: *
+*snumb 12337
+symbol: *
+*snumb 579426
+symbol: *
+*snumb 376451
+symbol: $
+snumb0 = 848
+symbol: $
+snumb0 = 692
+symbol: @
+snumb0 = 613
+symbol: *
+*snumb 564663
+symbol: &
+snumb0 = 380
+symbol: *
+*snumb 552976
+symbol: *
+*snumb 540299
+symbol: *
+symbol: -
+snumb0 = 13
+symbol: *
+*snumb 1480
+symbol: *
+symbol: *
+*snumb 562588
+symbol: -
+snumb0 = 418
+symbol: @
+snumb0 = 441
+symbol: *
+*snumb 374850
+symbol: @
+snumb0 = 289
+symbol: @
+snumb0 = 891
+symbol: *
+*snumb 512736
+symbol: -
+snumb0 = 588
+symbol: *
+*snumb 38360
+symbol: @
+snumb0 = 626
+symbol: *
+*snumb 503169
+symbol: +
+snumb0 = 534
+symbol: *
+*snumb 142450
+symbol: *
+*snumb 292908
+symbol: *
+*snumb 224030
+symbol: *
+*snumb 649555
+symbol: /
+snumb0 = 255
+symbol: *
+*snumb 380880
+symbol: &
+snumb0 = 580
+symbol: *
+*snumb 43232
+symbol: *
+*snumb 161146
+symbol: *
+symbol: =
+snumb0 = 942
+symbol: -
+snumb0 = 384
+symbol: *
+*snumb 184326
+symbol: +
+snumb0 = 118
+symbol: #
+snumb0 = 701
+symbol: @
+snumb0 = 447
+symbol: @
+snumb0 = 702
+symbol: %
+snumb0 = 915
+symbol: -
+snumb0 = 791
+symbol: =
+snumb0 = 734
+symbol: /
+snumb0 = 755
+symbol: #
+snumb0 = 993
+symbol: #
+snumb0 = 223
+symbol: @
+snumb0 = 669
+symbol: &
+snumb0 = 634
+symbol: *
+*snumb 170892
+symbol: *
+symbol: *
+*snumb 65365
+symbol: -
+snumb0 = 698
+symbol: $
+snumb0 = 458
+symbol: *
+*snumb 549703
+symbol: -
+snumb0 = 916
+symbol: *
+symbol: =
+snumb0 = 164
+symbol: *
+symbol: #
+snumb0 = 100
+symbol: *
+*snumb 302574
+symbol: *
+*snumb 409293
+symbol: *
+*snumb 72960
+symbol: @
+snumb0 = 493
+symbol: *
+*snumb 251400
+symbol: @
+snumb0 = 614
+symbol: *
+*snumb 309372
+symbol: *
+*snumb 8640
+symbol: *
+*snumb 753274
+symbol: *
+*snumb 222222
+symbol: *
+*snumb 319600
+symbol: =
+snumb0 = 561
+symbol: @
+snumb0 = 625
+symbol: -
+snumb0 = 560
+symbol: *
+*snumb 288600
+symbol: *
+*snumb 422685
+symbol: *
+symbol: %
+snumb0 = 852
+symbol: &
+snumb0 = 795
+symbol: -
+snumb0 = 79
+symbol: *
+*snumb 5252
+symbol: *
+*snumb 37828
+symbol: @
+snumb0 = 646
+symbol: *
+*snumb 278316
+symbol: *
+*snumb 247200
+symbol: *
+*snumb 19425
+symbol: =
+snumb0 = 471
+symbol: *
+*snumb 77792
+symbol: *
+*snumb 406550
+symbol: /
+snumb0 = 982
+symbol: *
+*snumb 215874
+symbol: *
+*snumb 127955
+symbol: *
+*snumb 654245
+symbol: $
+snumb0 = 662
+symbol: *
+*snumb 2658
+symbol: *
+*snumb 1903
+symbol: *
+*snumb 139920
+symbol: /
+snumb0 = 211
+symbol: *
+*snumb 110781
+symbol: &
+snumb0 = 827
+symbol: @
+snumb0 = 481
+symbol: @
+snumb0 = 769
+symbol: *
+*snumb 44400
+symbol: %
+snumb0 = 966
+symbol: #
+snumb0 = 492
+symbol: *
+*snumb 35880
+symbol: *
+*snumb 461686
+symbol: -
+snumb0 = 438
+symbol: $
+snumb0 = 200
+symbol: $
+snumb0 = 308
+symbol: /
+snumb0 = 447
+symbol: *
+*snumb 510725
+symbol: %
+snumb0 = 196
+symbol: *
+*snumb 2740
+symbol: *
+*snumb 28080
+symbol: /
+snumb0 = 743
+symbol: *
+*snumb 18468
+symbol: *
+*snumb 608634
+symbol: /
+snumb0 = 481
+symbol: &
+snumb0 = 165
+symbol: /
+snumb0 = 328
+symbol: $
+snumb0 = 807
+symbol: *
+*snumb 314415
+symbol: +
+snumb0 = 346
+symbol: *
+*snumb 660822
+symbol: *
+*snumb 133162
+symbol: #
+snumb0 = 204
+symbol: *
+*snumb 357315
+symbol: %
+snumb0 = 649
+symbol: -
+snumb0 = 923
+symbol: +
+snumb0 = 937
+symbol: *
+*snumb 37506
+symbol: @
+snumb0 = 226
+symbol: %
+snumb0 = 445
+symbol: -
+snumb0 = 727
+symbol: *
+*snumb 76320
+symbol: -
+snumb0 = 592
+symbol: $
+snumb0 = 336
+symbol: -
+snumb0 = 622
+symbol: *
+*snumb 122976
+symbol: *
+*snumb 360380
+symbol: %
+snumb0 = 269
+symbol: $
+snumb0 = 593
+symbol: *
+*snumb 137085
+symbol: =
+snumb0 = 282
+symbol: #
+snumb0 = 917
+symbol: *
+symbol: =
+snumb0 = 855
+symbol: #
+snumb0 = 400
+symbol: @
+snumb0 = 545
+symbol: &
+snumb0 = 823
+symbol: *
+*snumb 30004
+symbol: =
+snumb0 = 546
+symbol: *
+symbol: *
+*snumb 105732
+symbol: *
+*snumb 348552
+symbol: /
+snumb0 = 403
+symbol: $
+snumb0 = 742
+symbol: *
+*snumb 9559
+symbol: /
+snumb0 = 411
+symbol: /
+snumb0 = 909
+symbol: *
+*snumb 210630
+symbol: =
+snumb0 = 42
+symbol: #
+snumb0 = 329
+symbol: +
+snumb0 = 505
+symbol: -
+snumb0 = 147
+symbol: -
+snumb0 = 31
+symbol: -
+snumb0 = 180
+symbol: &
+snumb0 = 485
+symbol: *
+*snumb 606186
+symbol: *
+*snumb 6392
+symbol: *
+symbol: %
+snumb0 = 252
+symbol: &
+snumb0 = 536
+symbol: *
+*snumb 51696
+symbol: @
+snumb0 = 256
+symbol: *
+*snumb 166988
+symbol: *
+*snumb 98196
+symbol: -
+snumb0 = 860
+symbol: /
+snumb0 = 89
+symbol: &
+snumb0 = 433
+symbol: *
+*snumb 206052
+symbol: &
+snumb0 = 303
+symbol: *
+*snumb 355446
+symbol: *
+*snumb 110396
+symbol: #
+snumb0 = 992
+symbol: *
+symbol: *
+*snumb 63336
+symbol: *
+*snumb 484767
+symbol: &
+snumb0 = 732
+symbol: #
+snumb0 = 129
+symbol: *
+symbol: %
+snumb0 = 25
+symbol: *
+*snumb 362304
+symbol: *
+symbol: *
+*snumb 411968
+symbol: *
+*snumb 246945
+symbol: *
+*snumb 358700
+symbol: *
+*snumb 595836
+symbol: *
+*snumb 252120
+symbol: #
+snumb0 = 123
+symbol: -
+snumb0 = 410
+symbol: %
+snumb0 = 765
+symbol: $
+snumb0 = 839
+symbol: -
+snumb0 = 529
+symbol: =
+snumb0 = 533
+symbol: *
+*snumb 498016
+symbol: *
+*snumb 5176
+symbol: *
+*snumb 106750
+symbol: /
+snumb0 = 102
+symbol: *
+*snumb 158883
+symbol: &
+snumb0 = 449
+symbol: &
+snumb0 = 722
+symbol: +
+snumb0 = 107
+symbol: /
+snumb0 = 846
+symbol: $
+snumb0 = 649
+symbol: *
+*snumb 131887
+symbol: *
+*snumb 110880
+symbol: #
+snumb0 = 648
+symbol: +
+snumb0 = 515
+symbol: +
+snumb0 = 130
+symbol: *
+*snumb 90344
+symbol: &
+snumb0 = 142
+symbol: &
+snumb0 = 807
+symbol: &
+snumb0 = 116
+symbol: *
+*snumb 12932
+symbol: +
+snumb0 = 427
+symbol: *
+*snumb 683275
+symbol: -
+snumb0 = 894
+symbol: *
+*snumb 689216
+symbol: -
+snumb0 = 778
+symbol: #
+snumb0 = 62
+symbol: #
+snumb0 = 246
+symbol: #
+snumb0 = 668
+symbol: =
+snumb0 = 837
+symbol: =
+snumb0 = 396
+symbol: $
+snumb0 = 523
+symbol: *
+*snumb 18150
+symbol: *
+*snumb 340690
+symbol: *
+*snumb 155204
+symbol: #
+snumb0 = 703
+symbol: *
+*snumb 80278
+symbol: *
+*snumb 20493
+symbol: +
+snumb0 = 968
+symbol: *
+symbol: &
+snumb0 = 190
+symbol: *
+symbol: *
+*snumb 793832
+symbol: &
+snumb0 = 232
+symbol: /
+snumb0 = 588
+symbol: *
+*snumb 189508
+symbol: $
+snumb0 = 464
+symbol: #
+snumb0 = 161
+symbol: @
+snumb0 = 660
+symbol: $
+snumb0 = 369
+symbol: &
+snumb0 = 850
+symbol: @
+snumb0 = 385
+symbol: $
+snumb0 = 896
+symbol: *
+symbol: *
+*snumb 181958
+symbol: *
+*snumb 315808
+symbol: &
+snumb0 = 763
+symbol: -
+snumb0 = 958
+symbol: *
+symbol: +
+snumb0 = 634
+symbol: &
+snumb0 = 841
+symbol: *
+*snumb 297303
+symbol: *
+*snumb 120960
+symbol: *
+*snumb 74955
+symbol: @
+snumb0 = 658
+symbol: *
+*snumb 892961
+symbol: #
+snumb0 = 111
+symbol: *
+*snumb 205620
+symbol: -
+snumb0 = 861
+symbol: *
+*snumb 190112
+symbol: *
+*snumb 84960
+symbol: -
+snumb0 = 567
+symbol: +
+snumb0 = 66
+symbol: @
+snumb0 = 910
+symbol: @
+snumb0 = 851
+symbol: *
+*snumb 191401
+symbol: +
+snumb0 = 489
+symbol: @
+snumb0 = 611
+symbol: *
+*snumb 128426
+symbol: *
+*snumb 323312
+symbol: *
+*snumb 614109
+symbol: =
+snumb0 = 474
+symbol: *
+symbol: *
+*snumb 273700
+symbol: #
+snumb0 = 631
+symbol: +
+snumb0 = 33
+symbol: *
+*snumb 47628
+symbol: &
+snumb0 = 275
+symbol: *
+*snumb 45080
+symbol: *
+*snumb 36865
+symbol: &
+snumb0 = 529
+symbol: +
+snumb0 = 665
+symbol: *
+*snumb 28158
+symbol: #
+snumb0 = 166
+symbol: *
+*snumb 22356
+symbol: *
+*snumb 365918
+symbol: *
+*snumb 290496
+symbol: *
+*snumb 133110
+symbol: @
+snumb0 = 942
+symbol: -
+snumb0 = 170
+symbol: /
+snumb0 = 749
+symbol: &
+snumb0 = 562
+symbol: #
+snumb0 = 570
+symbol: *
+*snumb 79076
+symbol: *
+*snumb 25025
+symbol: @
+snumb0 = 863
+symbol: @
+snumb0 = 1
+symbol: *
+*snumb 244545
+symbol: *
+*snumb 425181
+symbol: *
+*snumb 145416
+symbol: *
+symbol: #
+snumb0 = 642
+symbol: =
+snumb0 = 715
+symbol: *
+*snumb 111186
+symbol: /
+snumb0 = 570
+symbol: /
+snumb0 = 192
+symbol: *
+*snumb 4719
+symbol: &
+snumb0 = 804
+symbol: *
+*snumb 322896
+symbol: #
+snumb0 = 40
+symbol: @
+snumb0 = 836
+symbol: $
+snumb0 = 938
+symbol: -
+snumb0 = 868
+symbol: =
+snumb0 = 136
+symbol: *
+*snumb 810828
+symbol: +
+snumb0 = 361
+symbol: *
+*snumb 125800
+symbol: *
+symbol: *
+*snumb 123480
+symbol: *
+*snumb 652638
+symbol: &
+snumb0 = 89
+symbol: *
+symbol: +
+snumb0 = 997
+symbol: *
+*snumb 675180
+symbol: &
+snumb0 = 777
+symbol: *
+*snumb 328158
+symbol: +
+snumb0 = 917
+symbol: &
+snumb0 = 438
+symbol: *
+*snumb 51708
+symbol: #
+snumb0 = 521
+symbol: *
+*snumb 88992
+symbol: $
+snumb0 = 950
+symbol: *
+*snumb 108072
+symbol: #
+snumb0 = 533
+symbol: &
+snumb0 = 146
+symbol: &
+snumb0 = 766
+symbol: *
+*snumb 563706
+symbol: *
+*snumb 307111
+symbol: /
+snumb0 = 381
+symbol: *
+*snumb 304102
+symbol: *
+*snumb 33050
+symbol: +
+snumb0 = 490
+symbol: *
+*snumb 215127
+symbol: =
+snumb0 = 126
+symbol: =
+snumb0 = 753
+symbol: @
+snumb0 = 539
+symbol: %
+snumb0 = 652
+symbol: %
+snumb0 = 115
+symbol: *
+*snumb 109224
+symbol: *
+*snumb 141514
+symbol: *
+*snumb 20944
+symbol: &
+snumb0 = 250
+symbol: *
+*snumb 36476
+symbol: =
+snumb0 = 886
+symbol: *
+*snumb 138771
+symbol: -
+snumb0 = 359
+symbol: *
+*snumb 77841
+symbol: +
+snumb0 = 600
+symbol: *
+*snumb 368000
+symbol: *
+*snumb 83616
+symbol: *
+*snumb 59664
+symbol: *
+*snumb 46386
+symbol: *
+*snumb 266272
+symbol: /
+snumb0 = 372
+symbol: /
+snumb0 = 147
+symbol: *
+*snumb 246804
+symbol: $
+snumb0 = 947
+symbol: %
+snumb0 = 260
+symbol: *
+*snumb 57677
+symbol: *
+*snumb 2656
+symbol: *
+*snumb 96300
+symbol: *
+*snumb 146520
+symbol: *
+*snumb 336737
+symbol: *
+*snumb 2646
+symbol: -
+snumb0 = 684
+symbol: *
+*snumb 80925
+symbol: +
+snumb0 = 363
+symbol: *
+*snumb 84907
+symbol: *
+symbol: *
+*snumb 83520
+symbol: @
+snumb0 = 850
+symbol: *
+*snumb 6935
+symbol: *
+*snumb 234000
+symbol: =
+snumb0 = 415
+symbol: *
+*snumb 90480
+symbol: %
+snumb0 = 914
+symbol: -
+snumb0 = 176
+symbol: =
+snumb0 = 518
+symbol: *
+*snumb 17440
+symbol: *
+*snumb 337662
+symbol: *
+symbol: *
+*snumb 450824
+symbol: *
+*snumb 43953
+symbol: *
+*snumb 204864
+symbol: #
+snumb0 = 845
+symbol: $
+snumb0 = 699
+symbol: /
+snumb0 = 198
+symbol: +
+snumb0 = 186
+symbol: *
+*snumb 157872
+symbol: *
+*snumb 255176
+symbol: *
+symbol: *
+symbol: @
+snumb0 = 936
+symbol: &
+snumb0 = 571
+symbol: *
+*snumb 3514
+symbol: *
+*snumb 190608
+symbol: *
+symbol: %
+snumb0 = 408
+symbol: &
+snumb0 = 336
+symbol: +
+snumb0 = 664
+symbol: *
+*snumb 363090
+symbol: *
+*snumb 102305
+symbol: $
+snumb0 = 97
+symbol: *
+*snumb 44226
+symbol: #
+snumb0 = 447
+symbol: =
+snumb0 = 29
+symbol: *
+symbol: *
+*snumb 141300
+symbol: *
+*snumb 234624
+symbol: =
+snumb0 = 630
+symbol: *
+*snumb 144866
+symbol: #
+snumb0 = 479
+symbol: @
+snumb0 = 848
+symbol: @
+snumb0 = 568
+symbol: +
+snumb0 = 305
+symbol: =
+snumb0 = 770
+symbol: *
+*snumb 762944
+symbol: *
+*snumb 132800
+symbol: -
+snumb0 = 422
+symbol: @
+snumb0 = 411
+symbol: *
+*snumb 23751
+symbol: $
+snumb0 = 645
+symbol: *
+*snumb 55552
+symbol: &
+snumb0 = 620
+symbol: %
+snumb0 = 465
+symbol: %
+snumb0 = 146
+symbol: #
+snumb0 = 292
+symbol: *
+*snumb 114636
+symbol: #
+snumb0 = 382
+symbol: *
+*snumb 217872
+symbol: *
+*snumb 138320
+symbol: *
+symbol: @
+snumb0 = 323
+symbol: -
+snumb0 = 111
+symbol: *
+*snumb 638928
+symbol: *
+*snumb 180560
+symbol: *
+symbol: *
+*snumb 188480
+symbol: @
+snumb0 = 164
+symbol: -
+snumb0 = 74
+symbol: +
+snumb0 = 162
+symbol: -
+snumb0 = 758
+symbol: *
+*snumb 538472
+symbol: *
+*snumb 104250
+symbol: *
+*snumb 25680
+symbol: /
+snumb0 = 841
+symbol: *
+*snumb 186436
+symbol: *
+symbol: +
+snumb0 = 224
+symbol: =
+snumb0 = 811
+symbol: *
+*snumb 63427
+symbol: *
+*snumb 147532
+symbol: *
+symbol: #
+snumb0 = 244
+symbol: &
+snumb0 = 230
+symbol: *
+*snumb 144384
+symbol: *
+symbol: $
+snumb0 = 287
+symbol: *
+*snumb 274824
+symbol: $
+snumb0 = 384
+symbol: *
+*snumb 93610
+symbol: /
+snumb0 = 406
+symbol: #
+snumb0 = 88
+symbol: @
+snumb0 = 320
+symbol: *
+*snumb 13671
+symbol: -
+snumb0 = 87
+symbol: &
+snumb0 = 302
+symbol: -
+snumb0 = 947
+symbol: *
+*snumb 49025
+symbol: -
+snumb0 = 244
+symbol: +
+snumb0 = 35
+symbol: *
+*snumb 199584
+symbol: *
+*snumb 57673
+symbol: *
+*snumb 324803
+symbol: #
+snumb0 = 37
+symbol: *
+*snumb 58344
+symbol: *
+*snumb 375375
+symbol: *
+*snumb 342964
+symbol: +
+snumb0 = 561
+symbol: *
+*snumb 574086
+symbol: &
+snumb0 = 226
+symbol: =
+snumb0 = 107
+symbol: *
+*snumb 12559
+symbol: =
+snumb0 = 881
+symbol: +
+snumb0 = 859
+symbol: $
+snumb0 = 691
+symbol: *
+*snumb 402210
+symbol: -
+snumb0 = 547
+symbol: *
+*snumb 8964
+symbol: *
+*snumb 320628
+symbol: &
+snumb0 = 238
+symbol: $
+snumb0 = 302
+symbol: *
+symbol: *
+*snumb 25921
+symbol: *
+*snumb 305520
+symbol: -
+snumb0 = 392
+symbol: *
+*snumb 41495
+symbol: *
+*snumb 163970
+symbol: =
+snumb0 = 801
+symbol: &
+snumb0 = 610
+symbol: *
+*snumb 391020
+symbol: #
+snumb0 = 856
+symbol: +
+snumb0 = 202
+symbol: $
+snumb0 = 894
+symbol: *
+*snumb 71416
+symbol: *
+*snumb 286425
+symbol: *
+*snumb 178200
+symbol: @
+snumb0 = 30
+symbol: %
+snumb0 = 454
+symbol: *
+*snumb 291856
+symbol: *
+*snumb 202608
+symbol: &
+snumb0 = 629
+symbol: &
+snumb0 = 23
+symbol: &
+snumb0 = 511
+symbol: *
+*snumb 171720
+symbol: *
+*snumb 569052
+symbol: %
+snumb0 = 280
+symbol: /
+snumb0 = 503
+symbol: $
+snumb0 = 579
+symbol: #
+snumb0 = 747
+symbol: =
+snumb0 = 573
+symbol: *
+*snumb 12478
+symbol: *
+*snumb 348600
+symbol: *
+*snumb 330072
+symbol: *
+*snumb 429000
+symbol: *
+symbol: *
+*snumb 318500
+symbol: *
+*snumb 43940
+symbol: *
+symbol: @
+snumb0 = 228
+symbol: *
+*snumb 275400
+symbol: *
+*snumb 246130
+symbol: *
+*snumb 99456
+symbol: @
+snumb0 = 259
+symbol: *
+*snumb 159904
+symbol: *
+symbol: @
+snumb0 = 727
+symbol: +
+snumb0 = 22
+symbol: *
+*snumb 149786
+symbol: $
+snumb0 = 899
+symbol: +
+snumb0 = 765
+symbol: =
+snumb0 = 309
+symbol: *
+*snumb 43860
+symbol: *
+*snumb 301172
+symbol: *
+*snumb 23394
+symbol: *
+symbol: /
+snumb0 = 304
+symbol: +
+snumb0 = 110
+symbol: /
+snumb0 = 568
+symbol: -
+snumb0 = 508
+symbol: *
+*snumb 477708
+symbol: #
+snumb0 = 420
+symbol: *
+*snumb 498655
+symbol: *
+symbol: =
+snumb0 = 417
+symbol: +
+snumb0 = 62
+symbol: -
+snumb0 = 276
+symbol: *
+*snumb 262900
+symbol: *
+*snumb 202440
+symbol: %
+snumb0 = 996
+symbol: *
+*snumb 147028
+symbol: -
+snumb0 = 4
+symbol: /
+snumb0 = 889
+symbol: *
+*snumb 143992
+symbol: $
+snumb0 = 595
+symbol: #
+snumb0 = 846
+symbol: *
+*snumb 162268
+symbol: *
+*snumb 10430
+symbol: $
+snumb0 = 416
+symbol: #
+snumb0 = 357
+symbol: *
+*snumb 563696
+symbol: +
+snumb0 = 195
+symbol: %
+snumb0 = 690
+symbol: $
+snumb0 = 711
+symbol: *
+*snumb 438130
+symbol: *
+*snumb 537840
+symbol: *
+*snumb 52972
+symbol: *
+*snumb 167088
+symbol: =
+snumb0 = 627
+symbol: #
+snumb0 = 929
+symbol: /
+snumb0 = 94
+symbol: *
+*snumb 157680
+symbol: *
+*snumb 55620
+symbol: *
+*snumb 347655
+symbol: *
+*snumb 1740
+symbol: #
+snumb0 = 920
+symbol: #
+snumb0 = 224
+symbol: =
+snumb0 = 843
+symbol: *
+*snumb 26854
+symbol: *
+*snumb 157430
+symbol: *
+*snumb 411140
+symbol: *
+*snumb 636000
+symbol: *
+*snumb 578400
+symbol: -
+snumb0 = 158
+symbol: *
+*snumb 648270
+symbol: @
+snumb0 = 505
+symbol: *
+*snumb 276741
+symbol: +
+snumb0 = 503
+symbol: $
+snumb0 = 599
+symbol: &
+snumb0 = 367
+symbol: =
+snumb0 = 871
+symbol: *
+*snumb 20874
+symbol: *
+*snumb 101124
+symbol: -
+snumb0 = 452
+symbol: *
+*snumb 426600
+symbol: *
+*snumb 551031
+totalnumb = 80368785
